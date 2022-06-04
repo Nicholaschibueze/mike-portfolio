@@ -1,4 +1,4 @@
-Live[mike-portfolio.netlify.app](mike-portfolio.netlify.app)Live Site
+Live[https://mike-portfolio.netlify.app/](mike-portfolio.netlify.app)Live Site
 In the project directory, you can run:
 
 ### `yarn start`
